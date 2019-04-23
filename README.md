@@ -1,7 +1,7 @@
 # Towbot
 APLIKASI PEMBELIAN TIKET KERETA DENGAN BAHASA PEMOGRAMAN C++
 
-Nama		  : Hilmy Farid
+Nama		  : Hilmy Farid <<endl;
 NPM  		  : 1810631170047
 Kelas 		: 2G
 Penugasan : Programmer Utama
