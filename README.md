@@ -1,9 +1,18 @@
 # Towbot
 APLIKASI PEMBELIAN TIKET KERETA DENGAN BAHASA PEMOGRAMAN C++
 
-Programmer Utama : Hilmy Farid
+Nama		: Hilmy Farid
+
+Penugasan : 
+-  Programmer Utama
+-  Penyusun Laporan
+-  Pembuat flowchart
 
 
-Programmer ke-2: Lalang Gunawan
+Nama		: Lalang Gunawan
+
+Penugasan 	: 
+- Programmer kedua
+- Penyusun Laporan
 
 
